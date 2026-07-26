@@ -66,7 +66,7 @@ const ContactCTA = () => {
           </p>
 
           <Link
-            href="https://wa.me/526141234567"
+            href="https://wa.me/528125789112"
             target="_blank"
             className="
               mt-10
